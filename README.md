@@ -25,8 +25,11 @@ I'm a dedicated Software Engineer with a strong background in Computer Science, 
 
 ## 🛠️ Experience
 
+### Verily (Google Life Sciences) | Software Engineer 2 | Kitchener, Ontario
+
+
 ### Arctic Wolf | Software Engineer | Waterloo, Ontario  
-_August 2022 – Present_
+_August 2022 – August 2024_
 
 - Deployed MAPIG using CloudFormation (ELB with WAF Rules) and integrated it with EKS to streamline Kubernetes operations.
 - Developed a User Provisioning Service (UPS) for automating onboarding, integrating with Okta, Zendesk, Metabase, and internal services.
