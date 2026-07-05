@@ -13,7 +13,7 @@ I'm a dedicated Software Engineer with a strong background in Computer Science, 
 
 ## 🚀 Skills
 
-- **Programming Languages:** Go, Java, JavaScript, Python, SQL
+- **Programming Languages:** Go, Java, Python, JavaScript, SQL
 - **Frameworks:** Node.js, Express.js, Spring Boot, React.js
 - **Databases:** MySQL, MongoDB, DynamoDB, RDS, Redis
 - **DevOps & Cloud Tools:** Docker, Kubernetes, AWS (EC2, S3, Lambda, SNS, SQS, CloudWatch), CI/CD pipelines (GitHub Actions, Harness, Jenkins), CloudFormation, Kafka, Troposphere
@@ -25,7 +25,7 @@ I'm a dedicated Software Engineer with a strong background in Computer Science, 
 
 ## 🛠️ Experience
 
-### Verily (Google Life Sciences) | Software Engineer 2 | Kitchener, Ontario
+### Verily (Google Life Sciences) | Software Engineer II | Kitchener, Ontario
 
 
 ### Arctic Wolf | Software Engineer | Waterloo, Ontario  
