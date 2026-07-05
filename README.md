@@ -25,10 +25,10 @@ I'm a dedicated Software Engineer with a strong background in Computer Science, 
 
 ## 🛠️ Experience
 
-### Verily (Google Life Sciences) | Software Engineer II | Kitchener, Ontario
+### Verily (Google Life Sciences) | Software Engineer II
 
 
-### Arctic Wolf | Software Engineer | Waterloo, Ontario  
+### Arctic Wolf | Software Engineer 
 _August 2022 – August 2024_
 
 - Deployed MAPIG using CloudFormation (ELB with WAF Rules) and integrated it with EKS to streamline Kubernetes operations.
@@ -38,7 +38,7 @@ _August 2022 – August 2024_
 - Solved SEV1 incidents involving cross-functional teams and senior leadership, ensuring quick and efficient resolutions.
 - Mentored co-op students and conducted code reviews, ensuring code quality and adherence to best practices.
 
-### Ardea Outcomes | Software Engineer | Halifax, Nova Scotia  
+### Ardea Outcomes | Junior Software Engineer
 _January 2022 – April 2022_
 
 - Implemented Speech-to-Text as a React Hook using the Web Speech API, improving UX by 15%.
