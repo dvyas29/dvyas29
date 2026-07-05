@@ -45,7 +45,7 @@ _January 2022 – April 2022_
 - Developed a real-time broadcasting service using WebSocket API, optimized for low latency and high concurrency.
 - Boosted system reliability by 21% through comprehensive end-to-end test cases using Cypress.
 
-### Digimation Technologies Pvt. Ltd. | Java Developer Intern | Ahmedabad, India  
+### Digimation Technologies Pvt. Ltd. | Java Developer Intern
 _June 2018 – December 2018_
 
 - Implemented a Management System for a local library as a Java Developer.
